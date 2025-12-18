@@ -1,8 +1,8 @@
 # 31 Days of Growth
 
-> **Three comprehensive learning tracks to transform your interview readiness: DSA, System Design, and Communication.**
+> **Three comprehensive learning tracks to transform your Career readiness: DSA, System Design, and Communication.**
 
-A structured 31-day program designed for senior engineers preparing for technical interviews and leadership roles. Each track requires ~1 hour per day and builds systematically from foundations to mastery.
+A structured 31-day program designed for senior engineers preparing for technical career and leadership roles. Each track requires ~1 hour per day and builds systematically from foundations to mastery.
 
 ---
 

@@ -207,16 +207,13 @@ docs/_build/
 *.so
 
 # ====================
-# Keep These (override)
+# Source Files (merged into /dsa, /communication, /system_design)
 # ====================
-# Ensure markdown files are tracked
-!*.md
-!**/*.md
-
-# Keep the source markdown files
-!dsa_31day_track.md
-!dsa-31-day-guide.md
-!communication_31day_track.md
-!communication-31-day-guide.md
-!sysdesign_31day_track.md
-!system-design-31-day-guide.md
+# These original files have been merged - ignore them
+dsa_31day_track.md
+dsa-31-day-guide.md
+communication_31day_track.md
+communication-31-day-guide.md
+sysdesign_31day_track.md
+system-design-31-day-guide.md
+MERGE_SUMMARY.md
