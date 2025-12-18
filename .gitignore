@@ -1,0 +1,222 @@
+# ====================
+# 31 Days of Growth
+# ====================
+communication_31day_track.md
+communication-31-day-guide.md
+system_design_31day_track.md
+system-design-31-day-guide.md
+dsa_31day_track.md
+dsa-31-day-guide.md
+
+# ====================
+# OS Generated Files
+# ====================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# ====================
+# Editor & IDE
+# ====================
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*.swn
+*~
+.netrwhist
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+
+# ====================
+# Personal Notes & Drafts
+# ====================
+# Personal notes (not part of curriculum)
+notes/
+drafts/
+scratch/
+personal/
+private/
+*.private.md
+*.draft.md
+*.local.md
+
+# ====================
+# Progress & Tracking
+# ====================
+# Personal progress files (if you want to keep private)
+my-progress.md
+progress-notes.md
+*.progress
+
+# Recordings (too large for git)
+recordings/
+*.mp3
+*.mp4
+*.m4a
+*.wav
+*.webm
+*.mov
+*.avi
+
+# Screenshots
+screenshots/
+*.png
+*.jpg
+*.jpeg
+*.gif
+!*.svg
+
+# ====================
+# Code Solutions
+# ====================
+# If you're keeping solutions private
+solutions/
+my-solutions/
+*.solution.py
+*.solution.js
+*.solution.ts
+
+# ====================
+# Build & Dependencies
+# ====================
+# Node.js (if using any tooling)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Python (if writing solutions)
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+venv/
+ENV/
+env/
+.venv/
+
+# ====================
+# Temporary Files
+# ====================
+tmp/
+temp/
+*.tmp
+*.temp
+*.bak
+*.backup
+*.old
+
+# ====================
+# Logs
+# ====================
+logs/
+*.log
+
+# ====================
+# Archives
+# ====================
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# ====================
+# Sensitive Information
+# ====================
+# API keys, credentials
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+secrets/
+credentials/
+
+# ====================
+# Documentation Build
+# ====================
+# If using doc generators
+_site/
+.jekyll-cache/
+.sass-cache/
+site/
+public/
+docs/_build/
+
+# ====================
+# Misc
+# ====================
+# Large files
+*.pdf
+*.doc
+*.docx
+*.xls
+*.xlsx
+*.ppt
+*.pptx
+
+# Compiled source
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# ====================
+# Keep These (override)
+# ====================
+# Ensure markdown files are tracked
+!*.md
+!**/*.md
+
+# Keep the source markdown files
+!dsa_31day_track.md
+!dsa-31-day-guide.md
+!communication_31day_track.md
+!communication-31-day-guide.md
+!sysdesign_31day_track.md
+!system-design-31-day-guide.md
